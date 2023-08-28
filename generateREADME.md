@@ -1,7 +1,7 @@
 # undefined
   
   ## Description
-  Read Gen
+  Read Me Gen
 
   # Table of Contents
   - [DESCRIPTION](#description)
@@ -33,11 +33,11 @@
   undefined
 
   ## Testing
-  Nothng Else for Procedure
+  Nothing to Explain for Testing
 
   ## Questions/Concerns/or contact me!
   GitHub Profile: [undefined](https://www.github.com/undefined)
  
-  Email: sample100@yahoo.com
+  Email: joeSample@gmail.com
 
 
